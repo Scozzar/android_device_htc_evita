@@ -2,6 +2,6 @@
 
 set -e
 
-export DEVICE=jewel
+export DEVICE=evita
 export VENDOR=htc
 ./../s4-common/setup-makefiles.sh $@
